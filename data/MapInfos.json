@@ -4,7 +4,7 @@ null,
 {"id":2,"expanded":false,"name":"단군신화내부","order":4,"parentId":6,"scrollX":0,"scrollY":0},
 {"id":3,"expanded":false,"name":"노인정내부","order":6,"parentId":5,"scrollX":1071.6,"scrollY":730.8},
 {"id":4,"expanded":true,"name":"회사","order":1,"parentId":0,"scrollX":884.7272727272727,"scrollY":494.1818181818182},
-{"id":5,"expanded":true,"name":"노인정","order":5,"parentId":0,"scrollX":513.3333333333334,"scrollY":392.6666666666667},
+{"id":5,"expanded":true,"name":"노인정","order":5,"parentId":0,"scrollX":884.7272727272727,"scrollY":502.90909090909093},
 {"id":6,"expanded":true,"name":"단군신화","order":3,"parentId":0,"scrollX":513.3333333333334,"scrollY":392.6666666666667},
 {"id":7,"expanded":true,"name":"영화촬영장","order":7,"parentId":0,"scrollX":0,"scrollY":0},
 {"id":8,"expanded":false,"name":"영화촬영장내부","order":8,"parentId":7,"scrollX":1530.8571428571427,"scrollY":1071.4285714285713}
