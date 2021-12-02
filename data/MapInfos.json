@@ -1,10 +1,10 @@
 [
 null,
-{"id":1,"expanded":false,"name":"회사내부","order":2,"parentId":4,"scrollX":816,"scrollY":1536},
+{"id":1,"expanded":false,"name":"회사내부","order":2,"parentId":4,"scrollX":513.3333333333334,"scrollY":392.6666666666667},
 {"id":2,"expanded":false,"name":"단군신화내부","order":4,"parentId":6,"scrollX":513.3333333333334,"scrollY":392.6666666666667},
 {"id":3,"expanded":false,"name":"노인정내부","order":6,"parentId":5,"scrollX":513.3333333333334,"scrollY":382},
-{"id":4,"expanded":true,"name":"회사","order":1,"parentId":0,"scrollX":513.3333333333334,"scrollY":392.6666666666667},
-{"id":5,"expanded":true,"name":"노인정","order":5,"parentId":0,"scrollX":513.3333333333334,"scrollY":567.3333333333334},
+{"id":4,"expanded":true,"name":"회사","order":1,"parentId":0,"scrollX":513.3333333333334,"scrollY":567.3333333333334},
+{"id":5,"expanded":true,"name":"노인정","order":5,"parentId":0,"scrollX":513.3333333333334,"scrollY":392.6666666666667},
 {"id":6,"expanded":true,"name":"단군신화","order":3,"parentId":0,"scrollX":513.3333333333334,"scrollY":392.6666666666667},
 {"id":7,"expanded":true,"name":"영화촬영장","order":7,"parentId":0,"scrollX":513.3333333333334,"scrollY":392.6666666666667},
 {"id":8,"expanded":false,"name":"영화촬영장내부","order":8,"parentId":7,"scrollX":1540,"scrollY":382}
