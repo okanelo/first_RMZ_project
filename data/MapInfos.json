@@ -7,5 +7,5 @@ null,
 {"id":5,"expanded":true,"name":"노인정","order":5,"parentId":0,"scrollX":0,"scrollY":0},
 {"id":6,"expanded":true,"name":"단군신화","order":3,"parentId":0,"scrollX":0,"scrollY":0},
 {"id":7,"expanded":true,"name":"영화촬영장","order":7,"parentId":0,"scrollX":0,"scrollY":0},
-{"id":8,"expanded":false,"name":"영화촬영장내부","order":8,"parentId":7,"scrollX":0,"scrollY":0}
+{"id":8,"expanded":false,"name":"영화촬영장내부","order":8,"parentId":7,"scrollX":1539.4285714285713,"scrollY":1088.5714285714284}
 ]
