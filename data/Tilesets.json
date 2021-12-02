@@ -10,6 +10,9 @@ null,
 {"id":8,"flags":[16],"mode":1,"name":"R_Dungeon","note":"","tilesetNames":["Dungeon_A1_1","Dungeon_A2_1","","Dungeon_A4_1","Dungeon_A5_1","Dungeon_B_1","Dungeon_C_1","",""]},
 {"id":9,"flags":[16],"mode":1,"name":"R_Inside","note":"","tilesetNames":["Inside_A1_1","Inside_A2_1","","Inside_A4_1","Inside_A5_1","Inside_B_1","Inside_C_1","",""]},
 {"id":10,"flags":[16],"mode":1,"name":"R_World","note":"","tilesetNames":["World_A1_1","World_A2_1","","","","World_B_1","","",""]},
-{"id":11,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]},
-{"id":12,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]}
+{"id":11,"flags":[16],"mode":1,"name":"R_Dungeon","note":"","tilesetNames":["Dungeon_A1_1","Dungeon_A2_1","","Dungeon_A4_1","Dungeon_A5_1","Dungeon_B_1","Dungeon_C_1","cave_tileset",""]},
+{"id":12,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]},
+{"id":13,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]},
+{"id":14,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]},
+{"id":15,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]}
 ]
